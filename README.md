@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Total%20Repos-10-8b00ff" alt="Total Repositories" />
 </p>
 
-<p align="center" style="margin: 20px;">
+<p align="center" style="margin-right:2rem">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=priyamaggarwal18&theme=nord" alt="GitHub Trophies" />
   </a>
