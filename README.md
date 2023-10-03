@@ -3,14 +3,7 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=priyamaggarwal18&label=Profile%20views&color=8b00ff&style=flat" alt="Profile Views" />
-</p>
-
-<p align="left">
   <img src="https://img.shields.io/badge/Total%20Repos-10-8b00ff" alt="Total Repositories" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Total%20Repos-10-8b00ff?style=for-the-badge&logo=appveyor" alt="Total Repositories" />
 </p>
 
 <p align="left" style="margin-bottom: 20px;">
