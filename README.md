@@ -1,11 +1,10 @@
-<h1 align="center" style="color: #8b00ff;">Hi there! 👋 I'm Priyam Aggarwal</h1>
-<h3 align="center" style="color: #8b00ff;">Coding is for the mind 🧠, but graphic designing is for the heart ❤️.</h3>
+<h1 align="center" style="color: white;">Hi there! 👋 I'm Priyam Aggarwal</h1>
+<h3 align="center" style="color: white;">Coding is for the mind 🧠, but graphic designing is for the heart ❤️.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=priyamaggarwal18&label=Profile%20views&color=8b00ff&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Total%20Repos-10-8b00ff" alt="Total Repositories" />
 </p>
-
 
 <div style="display: flex; justify-content: flex-start; margin-bottom: 20px;">
   <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin-right: 20px;">
@@ -13,15 +12,13 @@
   </a>
 </div>
 
-
-
 - 🔭 I’m currently working on **Yola 🤖**
 
 - 📫 How to reach me: **priyamagggarwal@gmail.com**
 
 - ⚡ Fun fact: **I think I am Creative 😁.**
 
-<h3 align="left" style="color: #8b00ff;">Connect with me:</h3>
+<h3 align="left" style="color: white;">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/priyamaggarwal" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -34,7 +31,7 @@
   </a>
 </p>
 
-<h3 align="left" style="color: #8b00ff;">Languages and Tools:</h3>
+<h3 align="left" style="color: white;">Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin-right: 10px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right: 10px"/>
