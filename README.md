@@ -6,11 +6,12 @@
   <img src="https://img.shields.io/badge/Total%20Repos-10-8b00ff" alt="Total Repositories" />
 </p>
 
-<p align="left" style="margin-bottom: 20px;">
+<p align="center" style="margin: 20px;">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=priyamaggarwal18&theme=nord" alt="GitHub Trophies" />
   </a>
 </p>
+
 
 - 🔭 I’m currently working on **Yola 🤖**
 
