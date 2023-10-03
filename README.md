@@ -1,17 +1,21 @@
-<h1 align="center">Hi there! 👋 I'm Priyam Aggarwal</h1>
-<h3 align="center">Coding is for the mind 🧠, but graphic designing is for the heart ❤️.</h3>
+<h1 align="center" style="color: #8b00ff;">Hi there! 👋 I'm Priyam Aggarwal</h1>
+<h3 align="center" style="color: #8b00ff;">Coding is for the mind 🧠, but graphic designing is for the heart ❤️.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=priyamaggarwal18&label=Profile%20views&color=8b00ff&style=flat" alt="Profile Views" />
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Total%20Repos-10-8b00ff" alt="Total Repositories" />
-  <a href="https://github.com/priyamaggarwal18">
-    <img src="https://img.shields.io/github/followers/priyamaggarwal18?label=Followers&color=8b00ff&style=flat" alt="Followers" />
-  </a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Total%20Repos-10-8b00ff?style=for-the-badge&logo=appveyor" alt="Total Repositories" />
 </p>
 
 <p align="left" style="margin-bottom: 20px;">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=priyamaggarwal18&theme=nord&column=7" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=priyamaggarwal18&theme=nord" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -21,7 +25,7 @@
 
 - ⚡ Fun fact: **I think I am Creative 😁.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style="color: #8b00ff;">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/priyamaggarwal" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -34,8 +38,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left" style="color: #8b00ff;">Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin-right: 10px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right: 10px"/>
@@ -49,7 +52,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px"/>
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" style="margin-right: 10px"/>
 </p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyamaggarwal18&show_icons=true&locale=en&layout=compact&theme=nord" alt="Top Languages" /></p>
 
