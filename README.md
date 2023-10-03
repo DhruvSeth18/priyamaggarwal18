@@ -1,51 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Your Page Title</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-    }
-
-    header {
-      background-color: #8b00ff;
-      color: white;
-      padding: 50px;
-      text-align: center;
-      animation: fadeIn 1.5s ease-in-out;
-    }
-
-    h1 {
-      margin-bottom: 20px;
-      border-bottom: 2px solid white;
-      padding-bottom: 10px;
-    }
-
-    h3 {
-      border-bottom: 1px solid white;
-      padding-bottom: 10px;
-    }
-
-    @keyframes fadeIn {
-      from {
-        opacity: 0;
-      }
-
-      to {
-        opacity: 1;
-      }
-    }
-  </style>
-</head>
-
-<body>
-
-  <header>
-   <h1 align="center" >Hi there! 👋 I'm Priyam Aggarwal</h1>
+ <h1 align="center" >Hi there! 👋 I'm Priyam Aggarwal</h1>
 <h3 align="center" style="color: white;">Coding is for the mind 🧠, but graphic designing is for the heart ❤️.</h3>
 
 <p align="left">
@@ -100,12 +53,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyamaggarwal18&theme=nord" alt="GitHub Streak" /></p>
 
 [![An image of @priyamaggarwal18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyamaggarwal18)](https://holopin.io/@priyamaggarwal18)
-
-  </header>
-
-  <!-- The rest of your content goes here -->
-
-</body>
-
-</html>
-
