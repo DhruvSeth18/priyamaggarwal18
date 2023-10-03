@@ -9,13 +9,9 @@
   </a>
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Total%20Repos-10-8b00ff?style=for-the-badge&logo=appveyor" alt="Total Repositories" />
-</p>
-
 <p align="left" style="margin-bottom: 20px;">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=priyamaggarwal18&theme=nord" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=priyamaggarwal18&theme=nord&column=7" alt="GitHub Trophies" />
   </a>
 </p>
 
