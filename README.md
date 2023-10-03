@@ -4,6 +4,9 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=priyamaggarwal18&label=Profile%20views&color=8b00ff&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Total%20Repos-10-8b00ff" alt="Total Repositories" />
+  <a href="https://github.com/priyamaggarwal18">
+    <img src="https://img.shields.io/github/followers/priyamaggarwal18?label=Followers&color=8b00ff&style=flat" alt="Followers" />
+  </a>
 </p>
 
 <p align="left">
