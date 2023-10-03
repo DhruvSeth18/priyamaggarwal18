@@ -1,4 +1,4 @@
- <h1 align="center" >Hi there! 👋 I'm Priyam Aggarwal</h1>
+<h1 align="center" style="color: white;">Hi there! 👋 I'm Priyam Aggarwal</h1>
 <h3 align="center" style="color: white;">Coding is for the mind 🧠, but graphic designing is for the heart ❤️.</h3>
 
 <p align="left">
