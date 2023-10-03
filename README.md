@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyam Aggarwal</h1>
-<h3 align="center">For me Coding is 🧠 but Graphic Designing is ❤️.</h3>
+<h3 align="center">"Coding is for the mind 🧠, but graphic designing is for the heart ❤️."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyamaggarwal18&label=Profile%20views&color=0e75b6&style=flat" alt="priyamaggarwal18" /> </p>
 <p align="left" style="margin-bottom: 20px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyamaggarwal18" alt="priyamaggarwal18" /></a> </p>
