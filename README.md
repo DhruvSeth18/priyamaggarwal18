@@ -2,6 +2,7 @@
 <h1 align="center" style="color: white;">Hi there! <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif"> I'm Priyam Aggarwal</h1>
 <h3 align="center" style="color: white;">Coding is for the mind 🧠, but graphic designing is for the heart ❤️.</h3>
 
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=priyamaggarwal18&label=Profile%20views&color=8b00ff&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Total%20Repos-10-8b00ff" alt="Total Repositories" />
